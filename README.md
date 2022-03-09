@@ -1,0 +1,2 @@
+# Rice-Diseases_Detection
+ 
